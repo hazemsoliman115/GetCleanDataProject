@@ -1,6 +1,7 @@
 This repositry contains the code for the project of the Getting and Cleaning Data project
  
 The following is done in run_analysis.R script:
+
 1. Download the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 2. Read the "subject_test.txt","X_test.txt","Y_test.txt","X_train.txt" and "y_train.txt"
 3. Merge the read files into a single data set, using subject as the first column, label as the second column and the data as the rest of the columns.
